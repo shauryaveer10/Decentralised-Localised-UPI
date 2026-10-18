@@ -29,16 +29,11 @@ The following are potential feature areas for the project. Update this section t
 
 ## Technology Stack
 
-Update this section with the technologies used in the implementation.
-
 | Component | Technology |
 |---|---|
-| Backend | To be specified |
-| Frontend | To be specified |
-| Database | To be specified |
-| Payment Integration | To be specified |
-| Location Services | To be specified |
-| Development Tools | Git, GitHub, and your IDE |
+| Backend | Java |
+| Database | H2 Hibernate|
+| Development Tools | Git, GitHub, and IntelliJ |
 
 ## Getting Started
 
@@ -71,16 +66,6 @@ Install the tools and dependencies required by the project.
 5. Start the application using the commands appropriate for your implementation.
 
 > **Note:** Exact installation and execution commands will be added once the project's build configuration and dependencies are documented.
-
-## Project Structure
-
-The repository structure depends on the implementation. Update this section to describe the main directories and their responsibilities.
-
-```text
-Decentralised-Localised-UPI/
-├── README.md
-└── ...
-```
 
 ## Security Considerations
 
